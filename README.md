@@ -1,6 +1,6 @@
 # Adriano Fratelli
 
-**Senior Solutions Architect at MongoDB** · Data & AI platforms · Financial services & telecommunications
+**Senior Solutions Architect at MongoDB** · Data & AI platforms
 
 I design and build production-minded proofs of value at the intersection of
 operational data, search, AI, security, and real-time systems. My work turns an
