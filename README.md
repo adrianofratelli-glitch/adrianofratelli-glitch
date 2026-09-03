@@ -7,8 +7,9 @@ operational data, search, AI, security, and real-time systems. My work turns an
 architecture decision into something stakeholders can inspect, run, measure,
 and challenge.
 
-Documentation and code are written in English. PoV interfaces may be in
-Brazilian Portuguese when they are designed for local customer conversations.
+Public-facing overviews and code are written in English. PoV interfaces and
+presentation scripts may remain in Brazilian Portuguese when they are designed
+for local customer conversations.
 
 ## Selected work
 
