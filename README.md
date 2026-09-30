@@ -15,12 +15,16 @@ for local customer conversations.
 
 | Project | What it demonstrates |
 |---|---|
-| [Torre — Atlas Control Plane](https://github.com/adrianofratelli-glitch/torre-atlas) | Fleet health, FinOps, scaling, Performance Advisor, observability, and an AI assistant grounded in live Atlas metrics |
+| [Torre — Atlas Control Plane](https://github.com/adrianofratelli-glitch/atlas-control-plane) | Fleet health, FinOps, scaling, Performance Advisor, observability, and an AI assistant grounded in live Atlas metrics |
 | [MongoDB to Apache Iceberg](https://github.com/adrianofratelli-glitch/iceberg-mongodb-lakehouse) | Atlas Stream Processing CDC into S3/Iceberg, including updates, deletes, schema evolution, time travel, and measured propagation latency |
 | [Queryable Encryption](https://github.com/adrianofratelli-glitch/atlas-queryable-encryption) | Equality and range queries over randomized ciphertext, with application and DBA views shown side by side |
-| [RAG on MongoDB Atlas](https://github.com/adrianofratelli-glitch/MongoDB-RAG) | Hybrid retrieval with Vector Search and BM25, RRF fusion, reranking, citations, tenant isolation, and default-deny ACLs |
-| [Economic Group Graph](https://github.com/adrianofratelli-glitch/atlas-graph-grupo-economico) | `$graphLookup`, fuzzy entity resolution, concentration analysis, visibility hierarchies, and measured graph workloads |
-| [Multi-Agent on MongoDB](https://github.com/adrianofratelli-glitch/MultiAgent-on-MDB) | MongoDB Atlas as both the data plane and coordination plane for stateful, observable, policy-constrained agents |
+| [RAG on MongoDB Atlas](https://github.com/adrianofratelli-glitch/atlas-rag-multitenant) | Hybrid retrieval with Vector Search and BM25, RRF fusion, reranking, citations, tenant isolation, and default-deny ACLs |
+| [Economic Group Graph](https://github.com/adrianofratelli-glitch/atlas-graph-economic-group) | `$graphLookup`, fuzzy entity resolution, concentration analysis, visibility hierarchies, and measured graph workloads |
+| [Multi-Agent on MongoDB](https://github.com/adrianofratelli-glitch/atlas-multi-agent-coordination) | MongoDB Atlas as both the data plane and coordination plane for stateful, observable, policy-constrained agents |
+| [Agent Intelligence Layer](https://github.com/adrianofratelli-glitch/atlas-agent-intelligence-layer) | Prompts, model config, semantic cache, guardrails, and short/long-term agent memory stored as documents and changed live |
+| [Search vs Vector vs Hybrid](https://github.com/adrianofratelli-glitch/atlas-search-vs-vector-marketplace) | Atlas Search, Vector Search, `$rankFusion` / `$scoreFusion`, analytics, and a LangGraph agent over a 20M-product catalog |
+| [Time Series for Payments](https://github.com/adrianofratelli-glitch/atlas-timeseries-payments) | Live payment-rail ingestion into a time series collection, with physical bucket inspection and measured storage reduction |
+| [Atlas Feature Showcase](https://github.com/adrianofratelli-glitch/mongodb-atlas-feature-showcase) | Online reindexing, hot/cold tiering, schema validation, Change Streams, ACID transactions, and Kafka / Stream Processing |
 
 ## Engineering focus
 
