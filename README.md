@@ -25,6 +25,9 @@ for local customer conversations.
 | [Search vs Vector vs Hybrid](https://github.com/adrianofratelli-glitch/atlas-search-vs-vector-marketplace) | Atlas Search, Vector Search, `$rankFusion` / `$scoreFusion`, analytics, and a LangGraph agent over a 20M-product catalog |
 | [Time Series for Payments](https://github.com/adrianofratelli-glitch/atlas-timeseries-payments) | Live payment-rail ingestion into a time series collection, with physical bucket inspection and measured storage reduction |
 | [Atlas Feature Showcase](https://github.com/adrianofratelli-glitch/mongodb-atlas-feature-showcase) | Online reindexing, hot/cold tiering, schema validation, Change Streams, ACID transactions, and Kafka / Stream Processing |
+| [Geospatial Risk](https://github.com/adrianofratelli-glitch/mongodb-atlas-geo-showcase) | Impossible-travel investigation with `$setWindowFields` and haversine in MQL, plus the five geospatial operators side by side |
+| [Multimodal Warranty Triage](https://github.com/adrianofratelli-glitch/multimodal-warranty-triage) | Voyage image embeddings, product-identity check, precedent retrieval, structured verdict, and a Change Stream review queue |
+| [Ops Manager Simulation](https://github.com/adrianofratelli-glitch/mongodb-ops-manager-demo) | Interactive MongoDB Ops Manager built with LeafyGreen UI, live in the browser through GitHub Pages |
 
 ## Engineering focus
 
